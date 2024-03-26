@@ -4,7 +4,7 @@ importScripts('js/sw-utils.js');
 
 //me declaro 3 constantes
 
-const STATIC_CACHE = 'static-v2';
+const STATIC_CACHE = 'static-v3';
 const INMUTABLE_CACHE = 'inmutable-v1';
 const DYNAMIC_CACHE = 'dynamcic-v1';
 
